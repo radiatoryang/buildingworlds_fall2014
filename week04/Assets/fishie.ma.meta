@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: a7eb126397d42114795d4ea581c58b99
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: imagePlane1
+    100004: pCube1
+    100006: pSphere1
+    100008: pCube2
+    100010: pCube2_MeshPart0
+    100012: pCube2_MeshPart1
+    100014: pCube2_MeshPart2
+    100016: pCube2_MeshPart3
+    100018: pCube2_MeshPart4
+    100020: pCube2_MeshPart5
+    100022: pCube2_MeshPart6
+    100024: pCube2_MeshPart7
+    400000: //RootNode
+    400002: imagePlane1
+    400004: pCube1
+    400006: pSphere1
+    400008: pCube2
+    400010: pCube2_MeshPart0
+    400012: pCube2_MeshPart1
+    400014: pCube2_MeshPart2
+    400016: pCube2_MeshPart3
+    400018: pCube2_MeshPart4
+    400020: pCube2_MeshPart5
+    400022: pCube2_MeshPart6
+    400024: pCube2_MeshPart7
+    2300000: pCube1
+    2300002: pSphere1
+    2300004: pCube2
+    2300006: pCube2_MeshPart0
+    2300008: pCube2_MeshPart1
+    2300010: pCube2_MeshPart2
+    2300012: pCube2_MeshPart3
+    2300014: pCube2_MeshPart4
+    2300016: pCube2_MeshPart5
+    2300018: pCube2_MeshPart6
+    2300020: pCube2_MeshPart7
+    3300000: pCube1
+    3300002: pSphere1
+    3300004: pCube2
+    3300006: pCube2_MeshPart0
+    3300008: pCube2_MeshPart1
+    3300010: pCube2_MeshPart2
+    3300012: pCube2_MeshPart3
+    3300014: pCube2_MeshPart4
+    3300016: pCube2_MeshPart5
+    3300018: pCube2_MeshPart6
+    3300020: pCube2_MeshPart7
+    4300000: pCube1
+    4300002: pSphere1
+    4300004: pCube2
+    4300006: pCube2_MeshPart0
+    4300008: pCube2_MeshPart1
+    4300010: pCube2_MeshPart2
+    4300012: pCube2_MeshPart3
+    4300014: pCube2_MeshPart4
+    4300016: pCube2_MeshPart5
+    4300018: pCube2_MeshPart6
+    4300020: pCube2_MeshPart7
+    6400000: pCube1
+    6400002: pCube2_MeshPart0
+    6400004: pCube2_MeshPart1
+    6400006: pCube2_MeshPart2
+    6400008: pCube2_MeshPart3
+    6400010: pCube2_MeshPart4
+    6400012: pCube2_MeshPart5
+    6400014: pCube2_MeshPart6
+    6400016: pCube2_MeshPart7
+    6400018: pSphere1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
